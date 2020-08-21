@@ -1,0 +1,15 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+.content {
+	max-width: 375px;
+	margin: 0 auto;
+}
+.content img {
+	width: 100%;
+}
+
+.content-laptop {
+	max-width: 1280px;
+}
